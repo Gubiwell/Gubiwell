@@ -1,6 +1,6 @@
-## 👨‍💻 Gabriel Rosin
+# 👨‍💻 Gabriel Rosin
 
-- ⚙️ Estudando Engenharia de Computação - IFSP 💻
-- 🌱 Aprendendo Python...
+> - ⚙️ Estudando Engenharia de Computação - IFSP 💻
+> - 🌱 Aprendendo Python...
 
 
