@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Rosin, estudante de Engenharia de Computação!
+## 👨‍💻 Gabriel Rosin
 
 - ⚙️ Estudando Engenharia de Computação - IFSP 💻
 - 🌱 Aprendendo Python...
