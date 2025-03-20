@@ -2,6 +2,5 @@
 
 - ⚙️ Estudando Engenharia de Computação - IFSP 💻
 - 🌱 Aprendendo Python...
-- 😄 Pronomes: ele/dele
 
 
